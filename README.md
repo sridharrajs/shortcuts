@@ -1,2 +1,2 @@
 # shortcuts
-Shortcuts for all
+Shortcuts for all applications I use
