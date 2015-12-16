@@ -1,9 +1,9 @@
 
 Navigation
 ===========
-Crtl + P 		Open files.
-Ctrl + G 		Goto line in current file.
-Ctlr + R 		List function within file
+Crtl + P 		Open files.  
+Ctrl + G 		Goto line in current file.  
+Ctlr + R 		List function within file  
 
 Search
 =========
