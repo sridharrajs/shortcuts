@@ -5,7 +5,7 @@ Crtl + P 		Open files.
 Ctrl + G 		Goto line in current file.
 Ctlr + R 		List function within file
 
-Serach
+Search
 =========
 Ctrl + Shift + f 	Find the files which has this keyword within folders
 
