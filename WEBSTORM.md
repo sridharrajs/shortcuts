@@ -1,7 +1,16 @@
+Navigation
+===========
+Alt + Home  Navigation   
+Ctrl + E    Recent file 
+
+Refactor
+==========
+Shift + F6 		Renaming variable.
+Ctrl + R        Find and replace all occurance of the word
+Ctrl + Alt + L  code alignment
+
 Search everything double shift
 Go to file Ctrl + Shift + N
-Recent file Ctrl + E
-Navigation Alt + Home
 
 To remove a line Ctrl + Y
 to select an word Ctrl + W
@@ -15,10 +24,6 @@ Ctrl + {  opening braces
 Ctrl + }  closing braces
 
 Shift + Enter for the next line enter
-
-Ctrl + alt + L for code alignment
-Shift+F6 renaming variable.
-Ctrl + R find and replace all occurance of the word
 
 Alt+F12 terminal inside IDE
 
