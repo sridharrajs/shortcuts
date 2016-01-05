@@ -38,3 +38,8 @@ command + shift + A action finder
 
 ctrl + shift + o open in the next group
 alt + w open in the next group
+
+Selection
+==========
+Ctrl + Shift + Alt + J Multiple selection throught file.
+Alt + J Next Occurances of the word
