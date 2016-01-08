@@ -9,6 +9,10 @@ Shift + F6 		Renaming variable.
 Ctrl + R        Find and replace all occurance of the word
 Ctrl + Alt + L  code alignment
 
+Edit
+=====
+Ctrl +  D to duplicate the current line
+
 Search everything double shift
 Go to file Ctrl + Shift + N
 
@@ -40,3 +44,4 @@ Selection
 ==========
 Ctrl + Shift + Alt + J Multiple selection throught file.
 Alt + J Next Occurances of the word
+
