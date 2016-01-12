@@ -1,47 +1,42 @@
 Navigation
 ===========
-Alt + Home  Navigation   
-Ctrl + E    Recent file 
+Alt  + Home  	  Navigation   
+Ctrl + E    	  Recent file  
+Ctrl + {  		  Opening braces   
+Ctrl + }  		  Closing braces   
+Alt  + F12        Terminal inside IDE   
+Ctrl + f12 		  List all methods of files  
+Ctrl + B 		  For mouse click and navigation   
+Ctrl + Shift + N  Go to file  
+double shift      Search everything  
 
 Refactor
 ==========
-Shift + F6 		Renaming variable.
-Ctrl + R        Find and replace all occurance of the word
-Ctrl + Alt + L  code alignment
+Shift + F6 		 Renaming variable.  
+Ctrl  + R        Find and replace all occurance of the word  
+Ctrl  + Alt + L  Code alignment  
+Ctrl  + Alt + V  Refactor a value to a variable  
 
 Edit
 =====
-Ctrl +  D to duplicate the current line
+Ctrl + D 		 Duplicate the current line  
+Ctrl + Y 		 To remove a line   
 
-Search everything double shift
-Go to file Ctrl + Shift + N
-
-To remove a line Ctrl + Y
-to select an word Ctrl + W
-
-Ctrl + Shift + up Move up
-Ctrl + Shift + down Move down
-
-last position of the edit Ctrl + shift + backspace
-
-Ctrl + {  opening braces
-Ctrl + }  closing braces
-
-Shift + Enter for the next line enter
-
-Alt + F12 terminal inside IDE
-
-Ctrl + B for mouse click and navigation
-Ctrl + f12 to list all methods of files
-
-Ctrl + alt + v to refactor a value to a variable
-
-alt + ins create file/code
-
-command + shift + A action finder
+Move
+=====
+Ctrl  + Shift + up 		  Move up  
+Ctrl  + Shift + down 	  Move down  
+Ctrl  + Shift + backspace Last position of the edit  
+Shift + Enter 			  Enter on the next line  
 
 Selection
 ==========
-Ctrl + Shift + Alt + J Multiple selection throught file.
-Alt + J Next Occurances of the word
+Ctrl + Shift + Alt + J 	Multiple selection throught file.  
+Alt  + J 				Next occurances of the word  
+Ctrl + W		 		Select an word   
+
+Quick tricks
+=============
+Alt  + Ins 				Create file/code  
+Ctrl + shift + A 		Action finder  
 
