@@ -40,3 +40,7 @@ Quick tricks
 Alt  + Ins 				Create file/code  
 Ctrl + shift + A 		Action finder  
 
+Settings
+===========
+Ctrl + Alt + S			Open settings           
+
