@@ -16,13 +16,13 @@ Ctrl + [ 		Un-indent current line(s)
 
 Cut/Copy/Paste/Select
 =====================
-Ctrl + D        Select the word  
-Ctrl + X		cuts the line if nothing is select, else selected contented will be cut  
-Ctrl + V        Pastes the content from clipboard  
+Ctrl + D        	Select the word  
+Ctrl + X		Cuts the line if nothing is select, else selected contented will be cut  
+Ctrl + V        	Pastes the content from clipboard  
 Ctrl + L 		Select line (repeat to select next lines)  
 
 Content
 ========
 Ctrl + Shift + D  	Duplicate the line if nothing is select, else selected contented will be duplicated  
 Ctrl + Shift + Up 	To move the block up  
-Ctrl + Shift + Down To move the block down  
+Ctrl + Shift + Down 	To move the block down  
