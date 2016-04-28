@@ -12,8 +12,10 @@ c-w 	   	cut into clipboard
 c-space    	start marking area  
 c-x u	   	undo  
 
-## selection  
+## Selection  
 c-x h 		select all  
 
-
+## Navigation
+c-x o 		switch to the other window  
+c-s             search  
 
